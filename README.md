@@ -13,8 +13,8 @@
 - ⚡ Two difficulty levels: **Easy** (short phrases) & **Hard** (punctuated paragraphs)
 - 🟥 Real-time **mistake highlighting** in red
 - ⏳ Timed test sessions:
-  - Easy: 30 seconds
-  - Hard: 45 seconds
+  - Easy: 40 seconds
+  - Hard: 60 seconds
 - ✅ Submit early with a simple click
 - 📊 Live WPM (Words Per Minute) and Accuracy calculations
 - 🌙 Dark mode UI for comfortable typing
