@@ -34,7 +34,7 @@
 Clone the repository and navigate to the folder:
 
 ```bash
-git clone https://github.com/yourusername/keysprint.git
+git clone https://github.com/pvk-96/KeySprint.git
 cd keysprint
 ```
 
