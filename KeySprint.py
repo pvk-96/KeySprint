@@ -35,7 +35,8 @@ passages = {
         "Grammar, punctuation, and sentence structure all play crucial roles in clear communication.",
         "Efficient typing habits can significantly enhance productivity and digital fluency.",
         "The university hosted a seminar on the ethical implications of emerging technologies.",
-        "As clouds gathered above, the wind whispered secrets of the coming storm."
+        "As clouds gathered above, the wind whispered secrets of the coming storm." , 
+        "Thank you for using KeySprint. Find out your typing speed, accuracy and improve it."
     ]
 }
 
